@@ -44,4 +44,4 @@ jobs:
       - name: Output build files
         run: ls -la 
       - name: Deploy
-        run: echo "Deploying...
+        run: echo "Deploying..."
